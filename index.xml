@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qheng&#39;s Blog</title>
-    <link>https://qu-heng.github.io/</link>
+    <link>https://qheng.top/</link>
     <description>Recent content on Qheng&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 20 Sep 2019 18:44:20 +0800</lastBuildDate>
     
-	<atom:link href="https://qu-heng.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qheng.top/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>https://qu-heng.github.io/page/about/</link>
+      <link>https://qheng.top/page/about/</link>
       <pubDate>Fri, 20 Sep 2019 18:44:20 +0800</pubDate>
       
-      <guid>https://qu-heng.github.io/page/about/</guid>
+      <guid>https://qheng.top/page/about/</guid>
       <description>关于页面</description>
     </item>
     
     <item>
       <title>我的第一个博客</title>
-      <link>https://qu-heng.github.io/2019/09/20/my-first-blog/</link>
+      <link>https://qheng.top/2019/09/20/my-first-blog/</link>
       <pubDate>Fri, 20 Sep 2019 10:52:24 +0800</pubDate>
       
-      <guid>https://qu-heng.github.io/2019/09/20/my-first-blog/</guid>
+      <guid>https://qheng.top/2019/09/20/my-first-blog/</guid>
       <description> Hello Hugo  aaa bbb ccc  </description>
     </item>
     
     <item>
       <title>Flake it till you make it</title>
-      <link>https://qu-heng.github.io/2019/02/26/flake-it-till-you-make-it/</link>
+      <link>https://qheng.top/2019/02/26/flake-it-till-you-make-it/</link>
       <pubDate>Tue, 26 Feb 2019 10:52:24 +0800</pubDate>
       
-      <guid>https://qu-heng.github.io/2019/02/26/flake-it-till-you-make-it/</guid>
+      <guid>https://qheng.top/2019/02/26/flake-it-till-you-make-it/</guid>
       <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</description>
     </item>
     
