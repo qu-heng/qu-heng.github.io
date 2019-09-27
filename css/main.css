@@ -58,7 +58,6 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
-
 .main-content {
   padding-top: 80px;
 }
@@ -813,4 +812,28 @@ h4.see-also {
 }
  ul.share li:hover .fab {
   transform: scale(1.4)
+}
+
+label {
+    font-weight: 100;
+}
+
+code {
+    word-break: break-all;
+}
+
+aside.toc{
+  float: right;
+  padding: 4px;
+  margin: 0;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border: solid 1px lightgray;
+}
+
+.toc ul{
+  list-style-type: none;
+  padding: 0;
+  padding-left: 12px;
+  margin: 0;
 }

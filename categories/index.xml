@@ -6,7 +6,9 @@
     <description>Recent content in Categories on Qheng&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Sep 2019 10:52:24 +0800</lastBuildDate>
+    <managingEditor>qheng@163.com (Qheng)</managingEditor>
+    <webMaster>qheng@163.com (Qheng)</webMaster>
+    <lastBuildDate>Wed, 25 Sep 2019 10:52:24 +0800</lastBuildDate>
     
 	<atom:link href="https://qheng.top/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,8 +16,8 @@
     <item>
       <title>建站</title>
       <link>https://qheng.top/categories/%E5%BB%BA%E7%AB%99/</link>
-      <pubDate>Fri, 20 Sep 2019 10:52:24 +0800</pubDate>
-      
+      <pubDate>Wed, 25 Sep 2019 10:52:24 +0800</pubDate>
+      <author>qheng@163.com (Qheng)</author>
       <guid>https://qheng.top/categories/%E5%BB%BA%E7%AB%99/</guid>
       <description></description>
     </item>

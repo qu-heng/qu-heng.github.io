@@ -3,58 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://qheng.top/page/</loc>
-    <lastmod>2019-09-20T18:44:20+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qheng.top/</loc>
-    <lastmod>2019-09-20T18:44:20+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://qheng.top/page/about/</loc>
-    <lastmod>2019-09-20T18:44:20+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://qheng.top/categories/</loc>
-    <lastmod>2019-09-20T10:52:24+08:00</lastmod>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://qheng.top/tags/hugo/</loc>
-    <lastmod>2019-09-20T10:52:24+08:00</lastmod>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://qheng.top/posts/</loc>
-    <lastmod>2019-09-20T10:52:24+08:00</lastmod>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qheng.top/2019/09/20/qheng-top-change-log/</loc>
-    <lastmod>2019-09-20T10:52:24+08:00</lastmod>
+    <loc>https://qheng.top/</loc>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qheng.top/2019/09/25/qheng-top-change-log/</loc>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://qheng.top/tags/</loc>
-    <lastmod>2019-09-20T10:52:24+08:00</lastmod>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://qheng.top/tags/website/</loc>
-    <lastmod>2019-09-20T10:52:24+08:00</lastmod>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://qheng.top/categories/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2019-09-20T10:52:24+08:00</lastmod>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://qheng.top/2019/02/26/flake-it-till-you-make-it/</loc>
-    <lastmod>2019-02-26T10:52:24+08:00</lastmod>
+    <loc>https://qheng.top/page/</loc>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qheng.top/page/about/</loc>
+    <lastmod>2019-09-26T12:30:34+08:00</lastmod>
   </url>
   
 </urlset>

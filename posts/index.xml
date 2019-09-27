@@ -6,27 +6,20 @@
     <description>Recent content in Posts on Qheng&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Sep 2019 10:52:24 +0800</lastBuildDate>
+    <managingEditor>qheng@163.com (Qheng)</managingEditor>
+    <webMaster>qheng@163.com (Qheng)</webMaster>
+    <lastBuildDate>Wed, 25 Sep 2019 10:52:24 +0800</lastBuildDate>
     
 	<atom:link href="https://qheng.top/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>qheng.top网站更新日志</title>
-      <link>https://qheng.top/2019/09/20/qheng-top-change-log/</link>
-      <pubDate>Fri, 20 Sep 2019 10:52:24 +0800</pubDate>
-      
-      <guid>https://qheng.top/2019/09/20/qheng-top-change-log/</guid>
-      <description>TODO 增加搜索框，使用algolia 在文章列表页下方添加导航PAgination 优化导航栏菜单 根据需要添加评论功能 2019-9-23 在阿里云上注册购买独立域名 qheng.top</description>
-    </item>
-    
-    <item>
-      <title>Flake it till you make it</title>
-      <link>https://qheng.top/2019/02/26/flake-it-till-you-make-it/</link>
-      <pubDate>Tue, 26 Feb 2019 10:52:24 +0800</pubDate>
-      
-      <guid>https://qheng.top/2019/02/26/flake-it-till-you-make-it/</guid>
-      <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</description>
+      <link>https://qheng.top/2019/09/25/qheng-top-change-log/</link>
+      <pubDate>Wed, 25 Sep 2019 10:52:24 +0800</pubDate>
+      <author>qheng@163.com (Qheng)</author>
+      <guid>https://qheng.top/2019/09/25/qheng-top-change-log/</guid>
+      <description>TODO 增加搜索框，使用algolia 在文章列表页下方添加导航Pagination 优化导航栏菜单 根据需要添加评论功能 2019-9-23 在阿里云上注册购买独立域名 qheng.top</description>
     </item>
     
   </channel>
